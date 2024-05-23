@@ -1,5 +1,5 @@
 # For me 😇
 
 ```bash
-go run . -w="raft-medium-directories.txt" -t="http://localhost:8080"
+go run . -w="raft-medium-directories.txt" -t="https://www.google.com" -r
 ```
